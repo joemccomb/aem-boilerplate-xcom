@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p<programId>-e<environmentId>.adobeaemcloud.com/bin/franklin.delivery/<githubOrg>/<repo>/main"
+    url: "https://author-p154460-e1781185.adobeaemcloud.com/bin/franklin.delivery/NVIDevOps/ADOBE%20NVI%20Implementation/main"
     type: "markup"
     suffix: ".html"
 folders:
